@@ -1,0 +1,9 @@
+body {
+  padding: auto;
+  margin: 2rem;
+}
+.img__main {
+  border-radius: 50%;
+  height: 4rem;
+  width: 4rem;
+}
